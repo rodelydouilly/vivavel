@@ -1,4 +1,3 @@
 # vivavel
-This app where everyone can post
- an object.
+Everyone can use this app to post a particular object.
  
